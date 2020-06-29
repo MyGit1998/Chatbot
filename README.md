@@ -3,7 +3,8 @@ Reference : DLithe
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
-Done by: Priya Shetty     USN: 4nm17cs139
+Done by: Priya Shetty     
+USN: 4nm17cs139
 
 ChatBot analysis using machine learning models
 
